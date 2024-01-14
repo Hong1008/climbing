@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "136ddbda21566e9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b655b6ab98da9393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "245cb4d86711186e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f4909fcdffbd472",
+    "type": "split",
+    "children": [
+      {
+        "id": "205d72290d9c1c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af677e228abd8489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f381a55228d9df5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78b0d3435fa76f1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "24c5705b51968de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad8557f70d09284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae4ec5cfcf22c10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82ca825f9be43d33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf56d759d07b081a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db5ee5c1963fba99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false
+    }
+  },
+  "active": "245cb4d86711186e",
+  "lastOpenFiles": [
+    "스포츠 클라이밍 실전 교과서.md",
+    "2. 클라이밍의 기본/2-1 홀딩.md",
+    "책 내부자료/홀딩_티슈풀.gif",
+    "책 내부자료/홀딩_하프크림프.jpg",
+    "책 내부자료/홀딩_풀크림프.jpg",
+    "1. 클라이밍의 기초/1-3 물리적 요소와 무브의 관계.md",
+    "3. 무브/3-2 카운터 밸런스 계통.md",
+    "3. 무브/3-1 무브의 기초 지식.md",
+    "2. 클라이밍의 기본/2-3 재밍.md",
+    "2. 클라이밍의 기본/2-2 풋워크.md",
+    "3. 무브/3-5 오퍼지션 계통.md",
+    "책 내부자료/물리적 요소_가속도.gif",
+    "3. 무브/3-7 클라이밍 동작의 순서.md",
+    "3. 무브/3-6 동적 무브 계통.md",
+    "책 내부자료/무브_보내기 무브.gif",
+    "1. 클라이밍의 기초/1-2 클라이밍 테크닉이란?.md",
+    "4. 클라이밍 테크닉/4-3 실력 향상과 심화를 위한 포인트.md",
+    "4. 클라이밍 테크닉/4-1 클라이밍 자세.md",
+    "4. 클라이밍 테크닉/4-2 경사에 따라 오르는 방법.md",
+    "3. 무브/3-4 올라타기 계통.md",
+    "3. 무브/3-3 훅 계통.md",
+    "책 내부자료/힘의 모멘트_무게중심이 발과 가까울 때.png",
+    "책 내부자료/힘의 모멘트_무게중심이 발홀드에서 멀 때.png",
+    "책 내부자료",
+    "1. 클라이밍의 기초/1-1 클라이밍의 실력 향상.md",
+    "1. 클라이밍의 기초/무제 폴더",
+    "4. 클라이밍 테크닉",
+    "3. 무브",
+    "클라이밍의 기초.md",
+    "무브.md",
+    "1. 클라이밍의 기초",
+    "클라이밍의 기본/클라이밍의 기본.md",
+    "클라이밍의 기본/홀딩",
+    "2. 클라이밍의 기본",
+    "크림프홀드.md",
+    "스포츠 클라이밍 실전 교과서",
+    "무제 파일.canvas",
+    "클라이밍 테크닉.md",
+    "2024-01-12.md"
+  ]
+}
